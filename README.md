@@ -1,8 +1,10 @@
-## Hi, I'm Carol. 
+## 👋 Hi
+
+I'm Carol. 
 
 I studied Data Science, and my background is in the humanities. Together, they shape how I think about data.
 
-I'm currently exploring LLMs and RAG. 
+- 🔭 I’m currently exploring LLMs and RAG. 
 
 <!--
 **SiuhiuY/SiuhiuY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
