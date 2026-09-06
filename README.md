@@ -2,7 +2,9 @@
 
 I'm Carol. 
 
-I studied Data Science, and my background is in the humanities. Together, they shape how I think about data.
+Trying to be a truthful data point. 
+
+I studied Data Science, and my background is in Communication. 
 
 - 🔭 I’m currently exploring LLMs and RAG.
 <!--
